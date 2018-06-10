@@ -299,7 +299,7 @@ bot.on('message', function (msg)
                 'Исполнитель: Рема\n' +
                 'Название песни: Моя молитва нехай лине\n');
 
-        }g
+        }
         else if (messageText === "славь душа господа" || messageText === "пой ему как никогда" || messageText === "cолнце встаёт новый день приходит")
         {
             bot.sendMessage(id, 'Припев:\n' +
